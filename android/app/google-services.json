@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100558573988",
+    "project_id": "plant-maintenance-a909e",
+    "storage_bucket": "plant-maintenance-a909e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100558573988:android:571354fce5ae5bef0d3131",
+        "android_client_info": {
+          "package_name": "com.example.demo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100558573988-2sugtee7ub96m9etv6prl2vbkq229eoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0qEqSQHiRhtA-SZd_NayFrSQMR5EoEF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100558573988-2sugtee7ub96m9etv6prl2vbkq229eoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
